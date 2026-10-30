@@ -1,2 +1,2 @@
 # Simon-Dice-FIGURAS-
-En este juego, quiero que aparezcan aleatoriamente una secuencia de figuras (círculos, cuadrados, triángulos y estrellas) de diferentes colores (rojo, amarillo, verde y azul), debajo tengas botones con esas figuras de colores y las tengas que marcar hasta que falles.
+En este juego, quiero que aparezcan aleatoriamente una secuencia de figuras (círculos, cuadrados, triángulos y estrellas) de diferentes colores (rojo, amarillo, verde y azul), debajo tengas botones con esas figuras de colores y las tengas que marcar hasta que falles. A medida que avanzas con las diferentes secuencias van más rápido y hay más figuras que debes poner hasta que falles y quedes eliminado, en ese momento pasarás a otro nivel diferente y volverás con más secuencias.
